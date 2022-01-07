@@ -1,0 +1,22 @@
+﻿body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input {
+    font-size: 20px;
+    color:darkblue;
+    width: 150px;
+    display: inline-block;
+}
+
+textarea {
+    font-size: 20px;
+}
+
+.btn {
+    font-size: 20px;
+    color: darkblue;
+    width: 150px;
+    outline-color: black;
+/*    outline-style: */
+}
